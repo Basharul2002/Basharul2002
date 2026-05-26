@@ -1,136 +1,237 @@
-<!-- Title and Profile Views Badge -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Basharul%20-%20Alam%20-%20Mazu&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
+
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=basharulalammazu&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=basharulalammazu&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
 
-<!-- Typing Animation -->
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Basharul+Alam+Mazu!;Passionate+Developer+💻;ML+Enthusiast+🤖" alt="Typing SVG" />
-    </h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Basharul+Alam+Mazu;Software+Engineer+💻;AI+%26+Machine+Learning+Enthusiast+🤖;Backend+Developer+⚙️;Turning+Ideas+Into+Reality+🚀" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/basharulalammazu?style=for-the-badge&logo=github&color=7c3aed"/>
+<img src="https://img.shields.io/github/stars/basharulalammazu?style=for-the-badge&logo=github&color=f59e0b"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Engineer-06b6d4?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science and Engineering student** passionate about:
-- 🤖 Developing machine learning models for real-time decision-making
-- 📊 Crafting insightful dashboards using Tableau and Power BI
-- ⚙️ Building efficient, scalable solutions through intelligent automation
-- 💡 Turning complex problems into elegant solutions
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-<div align="center">
+🎓 CSE Student at **American International University-Bangladesh (AIUB)**  
+💼 Software Engineer Intern at **Datasoft Manufacturing & Assembly Inc. Ltd. (DMA)**  
+🤖 Passionate about **AI, Backend Development & Automation**  
+⚡ Love building scalable systems and intelligent applications  
+🚀 Exploring Machine Learning, Deep Learning & System Design  
+
+<br/>
 
 > *"Smartly lazy" - I always find the most efficient way to get things done!*  
 > **Automation is my secret weapon!** 🚀
 
-</div>
-
 ---
 
-## 🚀 Technical Expertise
+# 🚀 Current Mission
 
 <div align="center">
 
-### 💻 Programming Languages
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
-<a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-
-### 🌐 Web Development
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-
-### 🛠 Frameworks & Tools
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-
-### 📊 Analytics & Visualization
-<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" /></a>
-
-### ⚡ Engineering & Simulation
-<a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" /></a>
-<a href="https://www.multisim.com/"><img src="https://img.shields.io/badge/Multisim-00A9E0?style=for-the-badge&logo=multisim&logoColor=white" alt="Multisim" /></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
-<a href="https://www.labcenter.com/"><img src="https://img.shields.io/badge/Proteus-6600CC?style=for-the-badge&logo=labcenter&logoColor=white" alt="Proteus" /></a>
+| 🔭 Working On | 🌱 Learning | 🎯 Goal |
+|---|---|---|
+| AI-Powered Systems | Advanced Backend Architecture | Become a World-Class Software Engineer |
+| Django + ML Integration | Cloud & DevOps | Build Real-World Impactful Products |
+| IoT + Automation | Distributed Systems | Contribute to Open Source |
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+# ⚡ Tech Stack
 
 <div align="center">
 
-**Reach out and let's collaborate on something amazing!**
+## 👨‍💻 Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basharul-alam-mazu/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basharulalam6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://basharulalammazu.github.io/)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,php,go,r" />
+
+---
+
+## 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,django,dotnet,nodejs" />
+
+---
+
+## 🤖 AI / Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+---
+
+## 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,,sqlite,git,github,vscode,visualstudio" />
+
+---
+
+## ⚙️ Engineering Tools
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proteus-6600CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌟 Profile Recognition
+# 🚀 Featured Projects
 
 <div align="center">
 
-[![GitRoll Badge](https://gitroll.io/api/badges/profiles/v1/sy7egEEHaICa5YRKCZg5m?theme=blueberry&timestamp=123456789)](https://gitroll.io/profile/sy7egEEHaICa5YRKCZg5m)
+<table>
+<tr>
+<td width="50%">
+
+### 🐟 MoreFish AI
+AI-powered smart aquaculture monitoring system using:
+- MQTT
+- Celery
+- Sensor Data
+- Machine Learning
+
+📌 Solved real-time NH4 prediction integration issues.
+
+</td>
+
+<td width="50%">
+
+### 🗑️ Smart Dustin Monitoring System
+IoT + AI-powered smart waste monitoring platform:
+- ML model training
+- Backend integration
+- Database architecture
+- Real-time analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 SkyQuest Arcade OpenGL
+2D Arcade Game built using:
+- C++
+- OpenGL GLUT
+- Dynamic gameplay
+- Multiple levels
+
+</td>
+
+<td width="50%">
+
+### ☕ Green Tea Coffee Shop
+Full-stack e-commerce platform:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+</td>
+</tr>
+</table>
 
 </div>
+---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=basharulalammazu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=basharulalammazu&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharulalammazu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharulalammazu&theme=tokyonight&utcOffset=6"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics & Insights
+# 🏆 Achievements
 
 <div align="center">
 
-### Overview
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharulalammazu&theme=blueberry)
-
-### Languages & Contributions
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharulalammazu&theme=blueberry&exclude=8)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharulalammazu&theme=blueberry&exclude=8)
-
-### Activity & Productivity
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharulalammazu&theme=blueberry)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharulalammazu&theme=blueberry&utcOffset=6)
-
-### Streak & Skills
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basharulalammazu&theme=blueberry)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basharulalammazu&theme=blueberry&layout=compact)
+<img src="https://github-profile-trophy.vercel.app/?username=basharulalammazu&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+# 📈 Contribution Graph
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=basharulalammazu&theme=onedark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basharulalammazu&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-## 🔝 Top Contributions
+# 🌐 Connect With Me
 
 <div align="center">
 
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=basharulalammazu&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+<a href="mailto:basharulalam6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/basharul-alam-mazu/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/basharulalammazu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://basharulalammazu.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+### ⚡ Work Smart. Build Fast. Automate Everything.
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/basharulalammazu/basharulalammazu/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -138,19 +239,12 @@ I'm a **Computer Science and Engineering student** passionate about:
 
 <div align="center">
 
-<strong>⭐ If you found this interesting, feel free to star this repo and reach out!</strong>
+## 🚀 Thanks for Visiting My Profile!
 
-**Let's build something amazing together!** 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!;Always+Learning+⚡;Always+Creating+🚀;Always+Improving+🔥" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
 
 </div>
-
-
-<!-- Footer -->
-<!-- Typing Animation with Static Heart (Simulated Animation) -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&lines=Proudly+crafted+with+❤️;and+Markdown;Proudly+crafted+with+💖;and+Markdown;Proudly+crafted+with+💗;and+Markdown;Proudly+crafted+with+❤️;and+Markdown" />
-</p>
-
-
-
-
